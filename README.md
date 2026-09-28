@@ -35,8 +35,8 @@ A avaliação do modelo de regressão linear revelou os seguintes indicadores de
 
 ## 🛠️ Tecnologias e Ferramentas
 
-*   Linguagem: Python (ou ferramenta de análise equivalente)
-*   Bibliotecas principais: Scikit-learn, Pandas, Matplotlib / Seaborn (para visualização dos dados e gráficos de dispersão).
+*   Linguagem: R (ou ferramenta de análise equivalente)
+*   Bibliotecas principais: lmtest, ggplot2 (para visualização dos dados e gráficos de dispersão).
 
 ---
 
